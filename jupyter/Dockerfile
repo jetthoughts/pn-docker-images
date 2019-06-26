@@ -1,7 +1,7 @@
 # Image: pubnative/pyspark-ci
 # Cf: Makefile.
 
-FROM jupyter/all-spark-notebook:7d427e7a4dde
+FROM jupyter/all-spark-notebook:d4cbf2f80a2a
 
 LABEL maintainer Denis <denis@pubnative.net>
 
